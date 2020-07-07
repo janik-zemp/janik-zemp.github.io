@@ -1,0 +1,22 @@
+html {
+    font-family: 'Rubik', sans-serif;
+    background-color: #008080;
+    color: white;
+}
+p {
+    font-size: 25px;
+    padding: 0px;
+}
+img {
+    border-radius: 0px;
+    width: 400px;
+}
+div p {
+    color: black;
+}
+button {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    border: 15px;
+}
